@@ -5,8 +5,8 @@ Made for `HacknRoll 2023`
 An easier way for both students and lecturers to record attendance in zoom meetings in various scenarios - from lectures, tutorials, or even examination using facial recognition.
 
 ## Code
-- Frontend: [link to repo](https://github.com/hacknroll2023-winners/icantfeelmyface-frontend)
-- Backend: [link to repo](https://github.com/hacknroll2023-winners/backend)
+- Frontend: [link to repo](https://github.com/hacknroll2023-icantfeelmyface/icantfeelmyface-frontend)
+- Backend: [link to repo](https://github.com/hacknroll2023-icantfeelmyface/backend)
 
 ## Team Members
 - Anunaya Joshi [GitHub](https://github.com/anunayajoshi)
