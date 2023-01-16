@@ -12,5 +12,5 @@ An easier way for both students and lecturers to record attendance in zoom meeti
 
 ## Team Members
 - Anunaya Joshi [GitHub](https://github.com/anunayajoshi)
-- Ryan Low [GitHub](https://github.com/orgs/Ryan-L98)
+- Ryan Low [GitHub](https://github.com/Ryan-L98)
 - James Yeap [GitHub](https://github.com/orgs/jamesyeap)
